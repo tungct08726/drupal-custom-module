@@ -14,10 +14,3 @@ hello.thankyou:
  requirements:
    _permission: 'access content'
  
-hello.getdetails:
- path: '/hello/getdetails'
- defaults:
-   _title: 'Fetch detail of Employee'
-   _controller: '\Drupal\hello_world_2\Controller\ThankyouController::getDetails'
- requirements:
-   _permission: 'access content'
