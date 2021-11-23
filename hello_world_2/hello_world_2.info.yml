@@ -1,0 +1,5 @@
+name: Hello world 2
+description: A Custom module to create a form and store it data.
+core: 8.x
+package: Custom
+type: module
